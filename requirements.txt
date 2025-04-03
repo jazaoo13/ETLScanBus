@@ -1,0 +1,4 @@
+pyodbc
+requests
+watchdog
+
